@@ -1,4 +1,4 @@
-Starter project for Kotlin Spring MVC with publiv/private endpoints for REST and UI
+Starter project for Kotlin Spring MVC with publiv/private endpoints for REST and UI using Thymeleaf
 
 To build and run:
 
