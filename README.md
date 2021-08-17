@@ -1,5 +1,7 @@
 Starter project for Kotlin Spring MVC with publiv/private endpoints for REST and UI
 
+To build and run:
+
 ./gradlew bootRun
 
 Respective REST endpoints for public and private:
